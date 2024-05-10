@@ -1,0 +1,20 @@
+# ninja log v5
+3	200	7329812403405685	build.ninja	eb197e2ab09a97fd
+2	1238	7329812415011076	CMakeFiles/CMakeTarget.dir/The_arithmetic_mean_number_in_the_array.cpp.obj	793ad6065096707
+1239	1899	7329812421285212	CMakeTarget.exe	59880ac10641b085
+3	1010	7329823131930392	CMakeFiles/CMakeTarget.dir/The_arithmetic_mean_number_in_the_array.cpp.obj	793ad6065096707
+1010	1470	7329823135868295	CMakeTarget.exe	59880ac10641b085
+2	778	7329823992318434	CMakeFiles/CMakeTarget.dir/The_arithmetic_mean_number_in_the_array.cpp.obj	793ad6065096707
+779	1127	7329823995143261	CMakeTarget.exe	59880ac10641b085
+2	698	7329824618613573	CMakeFiles/CMakeTarget.dir/The_arithmetic_mean_number_in_the_array.cpp.obj	793ad6065096707
+699	1032	7329824621437517	CMakeTarget.exe	59880ac10641b085
+1	788	7329824952321900	CMakeFiles/CMakeTarget.dir/The_arithmetic_mean_number_in_the_array.cpp.obj	793ad6065096707
+789	1131	7329824955146427	CMakeTarget.exe	59880ac10641b085
+2	747	7329880628810867	CMakeFiles/CMakeTarget.dir/The_arithmetic_mean_number_in_the_array.cpp.obj	793ad6065096707
+748	1090	7329880631480317	CMakeTarget.exe	59880ac10641b085
+2	723	7329881052268591	CMakeFiles/CMakeTarget.dir/The_arithmetic_mean_number_in_the_array.cpp.obj	793ad6065096707
+724	1050	7329881054937551	CMakeTarget.exe	59880ac10641b085
+3	1021	7329916931961117	CMakeFiles/CMakeTarget.dir/The_arithmetic_mean_number_in_the_array.cpp.obj	793ad6065096707
+1022	1396	7329916935056377	CMakeTarget.exe	59880ac10641b085
+2	727	7329918556845016	CMakeFiles/CMakeTarget.dir/The_arithmetic_mean_number_in_the_array.cpp.obj	793ad6065096707
+728	1097	7329918559513054	CMakeTarget.exe	59880ac10641b085

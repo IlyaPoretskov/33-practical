@@ -1,0 +1,4 @@
+﻿  Fishing Game.cpp
+C:\Skb30-40\33-practical\Fishing Game\Fishing Game.cpp(35,25): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Skb30-40\33-practical\Fishing Game\Fishing Game.cpp(26,1): warning C4715: play: значение возвращается не при всех путях выполнения
+  Fishing Game.vcxproj -> C:\Skb30-40\33-practical\Fishing Game\x64\Debug\Fishing Game.exe
